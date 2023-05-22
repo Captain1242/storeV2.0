@@ -1,0 +1,13 @@
+com\itjinling\store\domain\User.class
+com\itjinling\store\dao\UserDao.class
+com\itjinling\store\utils\MailUtils.class
+com\itjinling\store\service\impl\UserServiceImpl.class
+com\itjinling\store\service\UserService.class
+com\itjinling\store\utils\MyDateConverter.class
+com\itjinling\store\utils\UUIDUtils.class
+com\itjinling\store\utils\BaseServlet.class
+com\itjinling\store\web\servlet\UserServlet.class
+com\itjinling\store\dao\impl\UserDaoImpl.class
+com\itjinling\store\utils\JDBCUtils.class
+com\itjinling\store\utils\MailUtils$1.class
+com\itjinling\store\web\servlet\IndexServlet.class
